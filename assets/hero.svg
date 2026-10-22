@@ -1,0 +1,160 @@
+<div align="center">
+  <img
+    src="./assets/hero.svg"
+    alt="Avanthika P S — Full-Stack Developer. Thoughtful interfaces. Connected systems."
+    width="100%"
+  />
+</div>
+
+<br />
+
+<div align="center">
+
+**Thoughtful interfaces. Connected systems.**
+
+I’m Avanthika, a full-stack developer who enjoys turning complex requirements into clear, usable products. I work across React interfaces, backend services, and databases—with care for the details that make everything feel cohesive.
+
+[GitHub](https://github.com/aonethika) &nbsp; / &nbsp; [Repositories](https://github.com/aonethika?tab=repositories) &nbsp; / &nbsp; [Contributions](https://github.com/aonethika#contributions)
+
+</div>
+
+<br />
+
+## 01 &nbsp; / &nbsp; Approach
+
+Good software starts with understanding how people will use it.
+
+I enjoy shaping the whole experience: how a screen responds, how data moves through an application, and how the pieces stay understandable as a product grows.
+
+- **Interface craft** — responsive layouts, clear interactions, and purposeful visual detail.
+- **Connected architecture** — bringing frontend state, APIs, and persistent data together.
+- **Practical engineering** — readable code, deliberate abstractions, and maintainable foundations.
+
+<br />
+
+## 02 &nbsp; / &nbsp; Toolkit
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Interfaces** | React · Next.js · TypeScript · JavaScript |
+| **Styling** | Tailwind CSS |
+| **State & server data** | Zustand · Redux Toolkit · TanStack Query |
+| **Backend** | Node.js · Express.js |
+| **Data** | PostgreSQL · MongoDB · Prisma |
+| **Cloud & services** | AWS · Firebase |
+| **Workflow** | Git · GitHub |
+
+<br />
+
+## 03 &nbsp; / &nbsp; Selected work
+
+<!--
+Replace the project placeholders with verified information.
+Keep each description specific: what it does, who it helps, and what you built.
+Add repository and live links only when they are available.
+-->
+
+### ◇ &nbsp; [Project name]
+
+> **[A clear, one-sentence description of the product and who it serves.]**
+>
+> **Built:** [The main feature or workflow you implemented.]
+>
+> **Engineering:** [A meaningful technical decision or challenge you solved.]
+>
+> **Stack:** [Relevant technologies only.]
+
+<!-- Uncomment and replace with real URLs:
+[Explore repository →](REPOSITORY_URL) · [Live experience ↗](LIVE_URL)
+-->
+
+---
+
+### ◇ &nbsp; [Project name]
+
+> **[A clear, one-sentence description of the product and who it serves.]**
+>
+> **Built:** [The main feature or workflow you implemented.]
+>
+> **Engineering:** [A meaningful technical decision or challenge you solved.]
+>
+> **Stack:** [Relevant technologies only.]
+
+<!-- Uncomment and replace with real URLs:
+[Explore repository →](REPOSITORY_URL) · [Live experience ↗](LIVE_URL)
+-->
+
+---
+
+### ◇ &nbsp; [Project name]
+
+> **[A clear, one-sentence description of the product and who it serves.]**
+>
+> **Built:** [The main feature or workflow you implemented.]
+>
+> **Engineering:** [A meaningful technical decision or challenge you solved.]
+>
+> **Stack:** [Relevant technologies only.]
+
+<!-- Uncomment and replace with real URLs:
+[Explore repository →](REPOSITORY_URL) · [Live experience ↗](LIVE_URL)
+-->
+
+<br />
+
+## 04 &nbsp; / &nbsp; Development activity
+
+A small window into my public work on GitHub.
+
+<div align="center">
+  <a href="https://github.com/aonethika?tab=repositories">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=aonethika&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=9CA3AF&icon_color=818CF8&hide=stars,issues&rank_icon=github&border_radius=16"
+      alt="Avanthika's public GitHub statistics"
+      width="495"
+    />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/aonethika#contributions">
+    <img
+      src="https://ghchart.rshah.org/8B7CF8/aonethika"
+      alt="Avanthika's GitHub contribution calendar"
+      width="100%"
+    />
+  </a>
+</div>
+
+<p align="center">
+  <sub>Public activity is one part of the work. Explore the repositories for implementation details.</sub>
+</p>
+
+<br />
+
+---
+
+<br />
+
+<div align="center">
+
+### Let’s build something considered.
+
+**Avanthika P S** &nbsp; · &nbsp; Full-Stack Developer
+
+[Explore my work ↗](https://github.com/aonethika?tab=repositories)
+
+<sub>[Email address] &nbsp; / &nbsp; [LinkedIn URL] &nbsp; / &nbsp; [Portfolio URL]</sub>
+
+<!--
+Replace the placeholder line above with verified contact links, for example:
+[Email](mailto:YOUR_EMAIL) · [LinkedIn](YOUR_LINKEDIN_URL) · [Portfolio](YOUR_PORTFOLIO_URL)
+-->
+
+<br />
+
+<sub>Clarity in the interface. Care in the implementation.</sub>
+
+</div>
